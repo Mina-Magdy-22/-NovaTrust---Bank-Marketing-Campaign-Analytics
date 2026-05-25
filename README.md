@@ -231,8 +231,8 @@ Wasted Budget     →  31%          Cost of Over-Contacting → 194K
 |---|---|
 | **Mina Magdy** | Data Analysis & Dashboard Architecture |
 | **Ahmed Shehab** | Data Analysis & Visualization |
-| **Shahd Yousery** | Data Analysis & Insights |
-| **Malak Abdelkader** | Data Analysis & Recommendations |
+| **Shahd Yousery** | Data Analysis & Recommendations |
+| **Malak Abdelkader** | Data Analysis & Insights |
 
 </div>
 
